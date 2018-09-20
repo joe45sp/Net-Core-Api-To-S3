@@ -1,0 +1,14 @@
+/Users/jvanwagner/Projects/Vertex/bin/Debug/netcoreapp2.1/Vertex.deps.json
+/Users/jvanwagner/Projects/Vertex/bin/Debug/netcoreapp2.1/Vertex.runtimeconfig.json
+/Users/jvanwagner/Projects/Vertex/bin/Debug/netcoreapp2.1/Vertex.runtimeconfig.dev.json
+/Users/jvanwagner/Projects/Vertex/bin/Debug/netcoreapp2.1/Vertex.dll
+/Users/jvanwagner/Projects/Vertex/bin/Debug/netcoreapp2.1/Vertex.pdb
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.csprojAssemblyReference.cache
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.csproj.CoreCompileInputs.cache
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.RazorAssemblyInfo.cache
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.RazorAssemblyInfo.cs
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.AssemblyInfoInputs.cache
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.AssemblyInfo.cs
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.RazorTargetAssemblyInfo.cache
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.dll
+/Users/jvanwagner/Projects/Vertex/obj/Debug/netcoreapp2.1/Vertex.pdb
